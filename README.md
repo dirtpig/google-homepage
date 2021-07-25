@@ -2,7 +2,7 @@
 
 ### [odin project link](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css)
 
-### dan muck - completed 7/9/21
+### dirtpig - completed 7/9/21
 
 ## scope- 
 
